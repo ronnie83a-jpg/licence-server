@@ -1,0 +1,16 @@
+{
+  "licenses": {
+    "TEST-KEY": {
+      "license_key": "TEST-KEY",
+      "status": "active",
+      "allowed_domains": ["localhost", "localhost:8000", "127.0.0.1"],
+      "expire_at": "2030-01-01T00:00:00+00:00",
+      "max_installs": 1,
+      "installed_on": [],
+      "force_disable": false
+    }
+  },
+  "meta": {
+    "updated_at": "2025-12-02T00:00:00Z"
+  }
+}
